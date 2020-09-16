@@ -34,7 +34,7 @@ setup(
         "Documentation": "https://tiagocoutinho.github.io/connio/",
         "Source": "https://github.com/tiagocoutinho/connio/",
     },
-    version="0.0.0",
+    version="0.1.0",
     python_requires=">=3.5",
     zip_safe=True,
 )
