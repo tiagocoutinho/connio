@@ -7,7 +7,7 @@ A python concurrency agnostic communication library.
 Pass a URL to the single point API function `connio.connection_for_url()`
 and it will return a communication object with a common generic API.
 
-Helpful when handling with instrumentation which work over serial line or TCP
+Helpful when dealing with instrumentation which work over serial line or TCP
 (and in future USB) with simple REQ-REP communication protocols (example:
 [SCPI](https://en.m.wikipedia.org/wiki/Standard_Commands_for_Programmable_Instruments)).
 
