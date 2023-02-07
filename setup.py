@@ -29,9 +29,9 @@ setup(
     keywords="socket, tcp, ser2net, serial, rs232, rfc2217, asyncio",
     packages=find_packages(),
     install_requires=["serialio>=2.2", "sockio>=0.11"],
-    url="https://tiagocoutinho.github.io/connio/",
+    url="https://github.com/tiagocoutinho/connio",
     project_urls={
-        "Documentation": "https://tiagocoutinho.github.io/connio/",
+        "Documentation": "https://github.com/tiagocoutinho/connio",
         "Source": "https://github.com/tiagocoutinho/connio/",
     },
     version="0.2.0",
